@@ -7,7 +7,6 @@ O site apresenta minhas **habilidades, especialidades, projetos e formas de cont
 
 ## 🚀 Demonstração
 👉 [Acesse o site aqui](https://github.com/ErickAspec)  
-*(coloque o link do GitHub Pages, Netlify ou Vercel quando publicar)*
 
 ---
 
